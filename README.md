@@ -78,8 +78,6 @@ Because we are predicting 1 week in the future, instead of 2, also because the i
 By reducing layers from 25 to 7 in time_seris_4_1, the score became 0.931027060505, when it was 0.891005553354 in time_series_8_2. Thus, the performance increased with less number of hidden layers incase of time_seris_4_1.
 
 ## Libraries
-sklearn
-
-numpy
-
-panda
+* sklearn
+* numpy
+* panda
