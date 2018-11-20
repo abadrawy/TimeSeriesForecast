@@ -1,4 +1,4 @@
-# Nerual Networks for Time Series Forecasting
+# Neural Networks for Time Series Forecasting
 
 In this project a multilayer perceptron is built using scikit-learn's MLPRegressor, to forecast future natural gas prices. 
 The aim is to forecast the gas price for two weeks into the future based on the prices of the past 8 weeks.
